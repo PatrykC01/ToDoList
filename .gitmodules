@@ -1,0 +1,3 @@
+[submodule "todoapp"]
+	path = todoapp
+	url = git://github.com/PatrykC01/ToDoList.git
